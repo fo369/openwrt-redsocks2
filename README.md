@@ -5,8 +5,7 @@
 ---
 
  本项目是 [RedSocks2][1] 在 OpenWrt 上的移植  
- 当前版本: 0.60-2  
-   
+ 当前版本: 0.60-2    
 
 编译
 ---
@@ -35,6 +34,7 @@
  [openwrt-dist-luci][L]   | LuCI Applications for OpenWrt-dist
 
 
+  [1]: https://github.com/semigodking/redsocks
   [5]: https://github.com/fo369/openwrt-chinadns
   [7]: https://github.com/fo369/openwrt-shadowsocks
   [8]: https://github.com/fo369/openwrt-shadowvpn
